@@ -8,6 +8,8 @@ This project is sponsored by Recall.ai.
 
 ---
 
+Loom video - https://www.loom.com/share/efd0b58ef12a467d8690aae5a420e32b
+
 > [!NOTE]  
 > Use latest MacOS and Windows version, older versions have limited support
 
